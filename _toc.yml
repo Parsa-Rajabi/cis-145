@@ -1,6 +1,14 @@
 format: jb-book
 root: about/welcome
 parts:
+- caption: Course Links
+  chapters:
+  - url: https://bit.ly/CIS-145-Zoom
+    title: Zoom Link
+  - url: https://myclass.ufv.ca/
+    title: UFV Blackboard
+  - url: https://spring-2023-cis-145.slack.com/
+    title: Slack Workspace
 - caption: About this course
   chapters:
   - file: about/syllabus
@@ -17,14 +25,7 @@ parts:
   - file: lecture_notes
   - file: assignments_quizzes
   - file: project
-- caption: Course Links
-  chapters:
-  - url: https://bit.ly/CIS-145-Zoom
-    title: Zoom Link
-  - url: https://myclass.ufv.ca/
-    title: UFV Blackboard
-  - url: https://spring-2023-cis-145.slack.com/
-    title: Slack Workspace
+
 - caption: Course Feedback
   chapters:
   - file: about/feedback

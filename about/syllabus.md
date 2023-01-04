@@ -21,7 +21,7 @@ Elements of this document are **fixed** and unchanging. -->
     - Chilliwack, Canada Education Park Bldg. A	0024
     - Zoom Link: [https://bit.ly/CIS-145-Zoom](https://bit.ly/CIS-145-Zoom)
 
-**Slack Invitation Link:** [https://join.slack.com/t/spring-2023-cis-145/shared_invite/zt-1mllk6n8j-H5NCLI4Jjjm38X42Oqg3Cg](https://join.slack.com/t/spring-2023-cis-145/shared_invite/zt-1mllk6n8j-H5NCLI4Jjjm38X42Oqg3Cg)
+**Slack Invitation Link:** [Sign up for CIS 145 Slack Workspace](https://join.slack.com/t/spring-2023-cis-145/shared_invite/zt-1mllk6n8j-H5NCLI4Jjjm38X42Oqg3Cg)
 
 ---
 ## Course Instructor
