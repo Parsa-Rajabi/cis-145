@@ -6,4 +6,5 @@
 6. Apply the following features to websites: images, lists, tables, frames, image maps, forms, multimedia
 7. Apply Cascading Style Sheets to websites
 8. Compare and contrast various image and multimedia file formats
-9. Manipulate multimedia and other files for optimal delivery through the Internet • Apply JavaScript to websites
+9. Manipulate multimedia and other files for optimal delivery through the Internet
+10. Apply JavaScript to websites
