@@ -4,16 +4,19 @@
 All lecture slides are password protected. Visit Blackboard to get the password.
 ```
 
-| Wk# |  Date   |          Topic           |                                                                                                                                                                                      Lecture Notes                                                                                                                                                                                      |
-|:---:|:-------:|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------:|
-|  1  | Sept. 10 | Syllabus / Intro                 | [Slides]()|
-|  2  | Sept. 17 | HTML5 Basics                     | [Slides]()|
-|  3  | Sept. 24 | CSS Basics                       | [Slides]()|
-|  5  | Oct 8    | Visual Elements & Graphics       | [Slides]()|
-|  6  |  Oct 15  | Advance CSS & Page Layout        | [Slides]()|
-|  7  |  Oct 22  | Web Design & Wireframes          | [Slides]()|
-|  8  |  Oct 29  | Quiz & Page Layout               | [Slides]()|
-|  11 |  Nov 19  | Forms                            | [Slides]()|
-|  9  |  Nov 5   | Responsive Page Layout & Tables  | [Slides]()|
-|  12 |  Nov 26  | Intro to JavaScript              | [Slides]()|
-|  13 |  Dec 3   | Web Design + Review              | [Slides]()|
+| Wk# |   Date   | Book Chapter |            Topic           | Lecture Notes |
+|:---:|:--------:|:------------:|:--------------------------:|:-------------:|
+|  1  |   Jan 5  |              |      Syllabus / Intro      |   [Slides]()  |
+|  2  |  Jan 12  |       1      |        Intro to WWW        |   [Slides]()  |
+|  3  |  Jan 19  |       2      |         HTML Basics        |   [Slides]()  |
+|  4  |  Jan 26  |       3      |      HTML Basics + CSS     |   [Slides]()  |
+|  5  |   Feb 2  |       4      | Visual Elements & Graphics |   [Slides]()  |
+|  6  |   Feb 9  |       5      |   Web Design & Wireframes  |   [Slides]()  |
+|  7  |  Feb 16  |              |     Midterm (tentative)    |   [Slides]()  |
+|  8  |  Feb 23  |       -      |        Reading Break       |       -       |
+|  9  |  March 2 |      6+7     |         Page Layout        |   [Slides]()  |
+|  10 |  March 9 |       8      | Responsive Layouts + Table |   [Slides]()  |
+|  11 | March 16 |       9      |            Forms           |   [Slides]()  |
+|  12 | March 23 |       9      |         Intro to JS        |   [Slides]()  |
+|  13 | March 30 |              |           Review           |   [Slides]()  |
+|  14 |  April 6 |              |           Wrap Up          |   [Slides]()  |
