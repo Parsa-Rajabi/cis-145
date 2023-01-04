@@ -12,7 +12,7 @@ parts:
 - caption: About this course
   chapters:
   - file: about/syllabus
-  - file: about/course_schedule
+  # - file: about/course_schedule
   # - file: about/accommodations
   # - file: about/doing_well
   # - file: about/faq
@@ -23,8 +23,8 @@ parts:
 - caption: Course Content
   chapters:
   - file: lecture_notes
-  - file: assignments_quizzes
-  - file: project
+  # - file: assignments_quizzes
+  # - file: project
 
 - caption: Course Feedback
   chapters:
