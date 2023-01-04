@@ -1,9 +1,6 @@
 format: jb-book
 root: about/welcome
 parts:
-- caption: Final Exam Details
-  chapters:
-  - file: final
 - caption: About this course
   chapters:
   - file: about/syllabus
@@ -19,15 +16,16 @@ parts:
   chapters:
   - file: lecture_notes
   - file: assignments_quizzes
-#    title: Week 1
-#    sections:
-#      - file: class/week1/readings
-#      - file: class/week1/videos
-#      - file: class/week1/homework
-#      - file: class/week1/lecture
-#      - file: class/week1/test
-#      - file: class/week1/lab
-#      - file: class/week1/learninglogs
+  - file: project
+- caption: Course Links
+  - url: https://bit.ly/CIS-145-Zoom
+    title: Zoom Link
+  - url: https://myclass.ufv.ca/
+    title: UFV Blackboard
+  - url: https://spring-2023-cis-145.slack.com/
+    title: Slack Workspace
+  
+
 # - caption: Final Exam
 #   chapters:
 #   - file: class/final
