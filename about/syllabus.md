@@ -17,7 +17,9 @@ Elements of this document are **fixed** and unchanging. -->
 **{{ MEETING_TIMES }}**
 
 **Mode of Delivery/Location:**  
-- Blended (Mix of in-person and online), Chilliwack/Zoom
+- Blended (Mix of in-person and online)
+    - Chilliwack, Canada Education Park Bldg. A	0024
+    - Zoom Link: [https://bit.ly/CIS-145-Zoom](https://bit.ly/CIS-145-Zoom)
 ---
 ## Course Instructor
 
@@ -80,11 +82,6 @@ ISBN: 9780135919941
 ## Late Policy and Missed Assignments/Exams
 
 All assignments, quizzes, weekly activities and exams must be submitted/completed on their designated due dates. Failure to not meet deadlines will result in a mark of zero, except under extraordinary circumstances on a case-by-case basis as approved by the instructor (with valid documentation).
-
-## Tentative Course Schedule
-
-```{include} syllabus_bits/schedule_topics.md
-```
 
 <!-- ```{include} syllabus_bits/policies.md
 ``` -->
