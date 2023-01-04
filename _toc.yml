@@ -18,6 +18,7 @@ parts:
   - file: assignments_quizzes
   - file: project
 - caption: Course Links
+chapters:
   - url: https://bit.ly/CIS-145-Zoom
     title: Zoom Link
   - url: https://myclass.ufv.ca/
