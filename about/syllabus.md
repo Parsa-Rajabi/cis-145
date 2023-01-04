@@ -17,7 +17,7 @@ Elements of this document are **fixed** and unchanging. -->
 **{{ MEETING_TIMES }}**
 
 **Mode of Delivery/Location:**  
-- In-person / Building D 223 (Abbotsford)
+- Blended (Mix of in-person and online), Chilliwack/Zoom
 ---
 ## Course Instructor
 

@@ -2,11 +2,11 @@ The grading scheme for this course is:
 
 |       Item                     | Weight |            Due date(s)             | Frequency |
 |:------------------------------:|:------:|:----------------------------------:|:---------:|
-| Attendances & Participation    |   10%  | In-Class                           |  Weekly   |
+| Labs                           |   10%  | As per schedule                    |  On-going |
 | Weekly Activities              |   10%  | Before Class on Saturdays          |  Weekly   |
 | Quizzes                        |   20%  | As per schedule                    |  On-going |
 | Assignments                    |   30%  | As per schedule                    |  On-going |
-| Final Componenet               |   30%  | TBD                                |  Once     |
+| Final Component                |   30%  | TBD                                |  Once     |
 
 <!-- ```{attention} 
 All deadlines in this course have an automatic 48 hour grace period after the due dates listed above.

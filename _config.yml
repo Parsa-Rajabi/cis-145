@@ -18,7 +18,7 @@ html:
   use_issues_button: false
   use_edit_page_button: false
   navbar_number_sections : false
-  baseurl : "https://parsa-rajabi.github.io/archive/fall2022/cis-145/"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  baseurl : "https://parsa-rajabi.github.io/cis-145/"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
 #   google_analytics_id: G-LFY5151T35 # add your Google Analytics Tracking Code
   comments:
     hypothesis: false
@@ -62,20 +62,20 @@ sphinx:
       # OFFICE: "TBD"
       # PHONE: "N/A"
       COURSE_CODE: "CIS 145"
-      SECTION: "AB3"
+      SECTION: "CH1"
       CREDITS: "3"
-      TITLE: "Web Publishing "
+      TITLE: "Web Publishing"
       PREREQS: "Prerequisite(s): Competent in computer skills - see ‘CIS Required Skills’ section on the CIS department website for details."
       # COREQS: "N/A"
-      TERM: "2022 Fall"
-      ROOM: "Bldg D 223"
-      MEETING_TIMES: "Fridays, 11:30-14:20 PST"
+      TERM: "2023 Spring"
+      ROOM: "Bldg A 0024"
+      MEETING_TIMES: "Thursdays, 8:30-11:20 PST"
       # GRACE_PERIOD: "48 hour"
       # W_DATE_1: "11:59 PDT on January 22, 2021"
       # W_DATE_2: "11:59 PDT on March 26, 2021"
       # W_DATE_3: "11:59 PDT on March 26, 2021"
-      EXAM_PERIOD: "Dec 9-20 2022"
-      CANVAS_ID: "_58342_1/"
+      EXAM_PERIOD: "April 13-24 2022"
+      CANVAS_ID: "_61299_1/"
       CANVAS_LINK: "https://myclass.ufv.ca/ultra/courses/CANVAS_ID"
       # ZOOM_LINK: "[Zoom](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/15408)"
       # ANNOUNCEMENTS_LINK: "[Canvas Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
