@@ -6,7 +6,7 @@ All lecture slides are password protected. Visit Blackboard to get the password.
 
 | Wk# |   Date   |    Method   | Book Chapter |            Topic           | Lecture Notes |
 |:---:|:--------:|:-----------:|:------------:|:--------------------------:|:-------------:|
-|  1  |   Jan 5  |  In-person  |              |      Syllabus / Intro      |   [Slides]()  |
+|  1  |   Jan 5  |  In-person  |              |      Syllabus / Intro      |   [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoidDJzUkV1eWlVSFNBRWhDRjFSU2RrYXpGT2llSkRnQ0VOODd1b2NwNFdpKzNJZ1ZkNlN1dE9hdmc4b3lEL0tia3ZDeXc5M3VNbkoyeGdNc2J1dW1lRzRqNUhRYWxHY2hpUzlWYWZwV0ZpRVEvcDkyR0xpdjc0b1ZzRGJacGFJZ2RURHpnM3RyZXF2SHBaQ3IwY3BaWmpRcXlaT1k9IiwiaSI6InNwWC9qQjFwQ1MrTUNlSVMifQ==)  |
 |  2  |  Jan 12  |     Zoom    |       1      |        Intro to WWW        |   [Slides]()  |
 |  3  |  Jan 19  |  In-person  |       2      |         HTML Basics        |   [Slides]()  |
 |  4  |  Jan 26  |     Zoom    |       3      |      HTML Basics + CSS     |   [Slides]()  |
