@@ -23,6 +23,7 @@ parts:
 - caption: Course Content
   chapters:
   - file: lecture_notes
+  - file: weekly_activities
   # - file: assignments_quizzes
   # - file: project
 
