@@ -1,0 +1,38 @@
+/* This is the stylesheet file for week 6 */
+
+/* HTML element selector */
+h1 {
+    color: blueviolet;
+}
+
+/* HTML Class Selector */
+.center {
+    text-align: center;
+}
+
+.text-blue {
+    color: blue;
+}
+/* the latest CSS (further down) takes priority over the ones on the top */
+.text-red {
+    color: red;
+}
+
+#exampleOfID {
+    color: pink;
+}
+
+/* HTML Descendant selector */
+
+div section h3 {
+    color: orangered;
+}
+
+div section {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* HTML element selector */
+div {
+    font-style: italic;
+}

@@ -1,0 +1,73 @@
+/* This is the CSS file for week 5 HTML */
+
+/* ol {
+    color:forestgreen;
+}
+
+ul {
+    color:hotpink;
+} */
+
+/* This is a class syntax (all lowercase)
+
+DOT CLASS NAME {
+    CSS CODE
+}
+
+*/
+
+.align-centre-pink {
+    color: pink; 
+    font-size: 30px;
+    text-align: center;
+}
+
+.text-blue {
+    color: blue;   
+}
+
+.text-orange {
+    color: orange;
+}
+
+/* This is an ID syntax (all lowercase)
+
+HASHTAG ID NAME {
+    CSS CODE
+}
+
+*/
+
+#exampleOfID{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkolivegreen;
+    text-align: center;
+}
+
+#alignRight{
+    text-align: right;
+}
+
+/* This is a Descendant selector  (all lowercase)
+
+HTML_TAG HTML_TAG {
+    CSS CODE
+}
+
+*/
+
+body div {
+    color: crimson;
+}
+
+body div ul {
+    color: darkgoldenrod;
+}
+
+body div ul li {
+    color: tomato;
+}
+
+body div ul section li {
+    font-size: 1.4em;
+}

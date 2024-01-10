@@ -1,0 +1,75 @@
+/* STAR element applies this CSS to EVERYTHING on the page */
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: darkcyan;
+}
+
+
+/* Position property examples */
+
+.position-static {
+    position: static;
+    border: 3px solid tomato;
+}
+
+.position-relative {
+    position: relative;
+    right: 50px;
+    bottom: 40px;
+    border: 3px solid lightblue;
+}
+
+.position-absolute {
+    position: absolute;
+    top: 1325px;
+    left: 0;
+    width: 200px;
+    height: 200px;
+    border: 3px solid beige;
+}
+
+.position-fixed {
+    position: fixed;
+    top: 0;
+    /* width: 600px; */
+    /* height: 200px; */
+    border: 3px solid lightgreen;
+}
+
+.nav-links {
+    color:orange;
+    padding: 20px;
+}
+
+nav {
+    padding: 10px;
+}
+
+.display-none {
+    display: none;
+}
+
+.display-inline {
+    display: inline;
+}
+
+.display-block {
+    display: block;
+}
+
+.display-hybrid {
+    display: inline-block;
+}
+
+.float-right {
+    float: right;
+    width: 200px;
+    height: auto;
+}
+
+.clear-right{
+    clear: right;
+}

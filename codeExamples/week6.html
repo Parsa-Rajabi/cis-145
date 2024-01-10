@@ -1,0 +1,90 @@
+<!-- This is an example of week 6 concepts -->
+<!-- This is another comment, you can do so while holding "CONTROL + ?" OR "CMD + ?"-->
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Week 6 Demo</title>
+        <meta name="viewport" content="width=device-width, inital-scale=1.0">
+        <meta name="author" content="Parsa Rajabi">
+        <meta charset="UTF-8">
+        <!-- This is an example of external CSS -->
+        <!-- Make sure the href is a releative path -->
+        <link rel="stylesheet" href="CSS/week6_styles.css">
+    
+        <!-- This is an example of embedded CSS, notice that we are using <style> tag -->
+        <style>
+            /* syntax for adding CSS
+            
+            HTML element selector {
+                CSS property: CSS value;
+            }            
+            */
+        </style>
+    </head>
+    <body>
+        <h1 class="align-centre-pink">Welcome to CIS 145!</h1>
+
+        <h2 class="align-centre-pink">Today is all about practicing HTML!</h2>
+
+        <!-- this is an example of inline CSS -->
+        <!-- We use the style attribute to add CSS -->
+        <p class="text-blue">This <i>is a</i> paragraph</p>
+        
+        <!-- <p>I've been wondering what the difference between <p>FIRST <br> text</p> and <p>text <br>SECOND</p> all week</p> -->
+        <!-- <hr> adds a horizontal line to devide the concepts -->
+        <hr>
+         <!-- this is an example of inline CSS -->
+        <p style="color:blueviolet">Another <b>paragarph</b></p>
+
+
+        <!-- Stacking classes is working as expected, make sure to check the order of CSS class defined in CSS file as well. The last defined class takes over the previous one.  -->
+        <p class="align-centre-pink text-blue text-orange">This is an example of <sup>superscript</sup> text and example of CSS classes stacked</p>
+        <p>This is an example of <sub>subscript</sub> text</p>
+
+        <h2 id="exampleOfID">Today is all about practicing CSS!</h2>
+
+        <!-- Stacking IDs is not working as expected, we don't stack IDs  -->
+        <h2 id="exampleOfID alignRight">This is an example of 2 IDs stacks!</h2>
+
+        <!-- This is an ordered list: -->
+        <p class="align-centre-pink">We need to go through this process everyday:</p>
+        <ol class="text-blue">
+            <li>Wake up</li>
+            <li>Look at my phone</li>
+            <li>Go back to bed</li>
+        </ol>
+ 
+        <p>We need to grab these things from superstore</p>
+        <div>
+            <ul>
+                <li>Milk</li>
+                <section><li>Eggs</li></section>
+                <li>Bread</li>
+                <li>Pasta</li>
+                <p>Example of p tag in unordered list</p>
+            </ul>
+            <p>This is a great list!</p>
+        </div>
+
+        <div>
+            <ol>
+                <li>Milk</li>
+                <section><li>Eggs</li></section>
+                <li>Bread</li>
+                <li>Pasta</li>
+            </ol>
+            <p>This is a great list!</p>
+        </div>
+
+        <!-- This is an example of an absolute path -->
+        <p>Here is a link to my favourite website:</p>
+        <p><a href="https://www.w3schools.com">Click here to vist W3Schools</a></p>
+        <p><a href="https://www.cbc.ca">Click here to vist CBC.ca</a></p>
+
+        <!-- This is an example of a relative path -->
+        <p>Here is a link that goes to my part 2 file</p>
+        <!-- href section is the "path" so the path for this "week3_part2.html" -->
+        <p><a href="week3_part2.html">Click here to visit part 2 of week 3</a></p>
+
+    </body>
+</html>

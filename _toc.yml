@@ -1,0 +1,48 @@
+format: jb-book
+root: about/welcome
+parts:
+- caption: Course Links
+  chapters:
+  - url: https://bit.ly/CIS-145-Zoom-Fall-2023
+    title: Zoom Link
+  - url: https://myclass.ufv.ca/
+    title: UFV Blackboard
+  - url: https://cis145-fall2023.slack.com/
+    title: Slack Workspace 
+- caption: About this course
+  chapters:
+  - file: about/syllabus
+  # - file: drop_in_hours
+  - file: resources
+  # - file: about/course_schedule
+  # - file: about/accommodations
+  # - file: about/doing_well
+  # - file: about/faq
+# - caption: Course elements
+  # chapters:
+    # - file: assignments_quizzes
+    # - file: project
+- caption: Course Content
+  chapters:
+  - file: lecture_notes
+  - url: https://github.com/Parsa-Rajabi/cis-145/tree/main/codeExamples
+    title: In-class code examples
+  - file: weekly_activities
+  - file: labs
+  - file: quizzes
+  - file: assignments
+  # - file: midterm
+  # - file: project
+
+- caption: Course Feedback
+  chapters:
+  - file: about/feedback
+    title: Anonymous Feedback Form
+
+# - caption: Final Exam
+#   chapters:
+#   - file: class/final
+# - caption: Lab Materials
+#   chapters:
+#   - file: class/labs
+#     title: Lab Stuff

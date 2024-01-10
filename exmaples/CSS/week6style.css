@@ -1,0 +1,77 @@
+/* Parsa Rajabi - 300123456 */
+/* Week 6 Style */
+
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lightgrey;
+    /* background-image: url(https://www.publicdomainpictures.net/pictures/200000/nahled/tile-pattern-wallpaper-background-1473792455XHi.jpg); */
+    /* background-position: 200px 400px; */
+    /* background-repeat: no-repeat; */
+}
+
+.center {
+    text-align: center;
+}
+
+.text-blue {
+    color: royalblue;
+}
+
+.dog-image {
+    width: 50%;
+    height: 50%;
+    opacity: 0.5;
+}
+
+img {
+    border: 2px dashed red;
+}
+
+#cat-picture {
+    border-radius: 50%;
+}
+
+figure img {
+    border-radius: 25% 50%;
+}
+
+#shadow-text {
+    border: 7px solid orange;
+    box-shadow: 5px 10px ;
+    margin: 50px 40px 40px 20px;
+    padding: 40px;
+}
+
+#shadow-text2 {
+    border: 2px solid black;
+    box-shadow: 15px 20px gray;
+    margin: 50px;
+    padding: 40px 20px 40px 20px;
+}
+
+#opacity-test{
+    background-color: aquamarine;
+    opacity: 0.4;
+    margin: 50px
+}
+
+.linear-grad {
+    /* height: 200px; */
+    background-color: azure;
+    background-image: linear-gradient(yellow, lightblue);
+}
+
+.radial-grad {
+    height: 200px;
+    width: 50%;
+    background-color: azure;
+    background-image: radial-gradient(pink, lightblue, purple);
+}
+
+.conic-grad {
+    height: 400px;
+    width: 75%;
+    background-color: brown;
+    background-image: conic-gradient(red, yellow, green, blue, purple);
+    border-radius: 50%;
+}

@@ -1,0 +1,52 @@
+/* This is the CSS file for week 8 */
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+nav a {
+    text-decoration: none;
+    color: darkgreen;
+}
+
+body {
+    /* background-color: lightblue; */
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/e/ec/Scrat_Ice_Age.png);
+    background-size: 100px 100px;
+    /* background-repeat: no-repeat; */
+}
+
+.dogPicture {
+    width: 150px;
+    height: auto;
+    box-shadow: 5px 15px rgba(0, 255, 42, 0.411);
+}
+
+#dogFigure {
+    border: 2px solid red;
+}
+
+.myBorderRadius{
+    border-radius: 15px 50px 30px 20px;
+}
+
+#gradientTopDown{
+    height: 100px;
+    background-image: linear-gradient(green,yellow);
+}
+
+#gradientRadial{
+    height: 150px;
+    width: 200px;
+    background-image: radial-gradient(purple,pink,orange);
+}
+
+#gradientConic{
+    height: 250px;
+    width: 300px;
+    background-image: conic-gradient(blue, red, green);
+}
