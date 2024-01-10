@@ -3,16 +3,16 @@ root: about/welcome
 parts:
 - caption: Course Links
   chapters:
-  - url: https://bit.ly/CIS-145-Zoom-Fall-2023
+  - url: https://bit.ly/CIS-145-AB5-ZOOM
     title: Zoom Link
   - url: https://myclass.ufv.ca/
     title: UFV Blackboard
-  - url: https://cis145-fall2023.slack.com/
-    title: Slack Workspace 
+  # - url: https://cis145-fall2023.slack.com/
+  #   title: Slack Workspace 
 - caption: About this course
   chapters:
   - file: about/syllabus
-  # - file: drop_in_hours
+  - file: hybrid_schedule
   - file: resources
   # - file: about/course_schedule
   # - file: about/accommodations
@@ -25,12 +25,12 @@ parts:
 - caption: Course Content
   chapters:
   - file: lecture_notes
-  - url: https://github.com/Parsa-Rajabi/cis-145/tree/main/codeExamples
-    title: In-class code examples
-  - file: weekly_activities
-  - file: labs
-  - file: quizzes
-  - file: assignments
+  # - url: https://github.com/Parsa-Rajabi/cis-145/tree/main/codeExamples
+    # title: In-class code examples
+  # - file: weekly_activities
+  # - file: labs
+  # - file: quizzes
+  # - file: assignments
   # - file: midterm
   # - file: project
 
