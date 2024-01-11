@@ -3,8 +3,8 @@ root: about/welcome
 parts:
 - caption: Course Links
   chapters:
-  - url: https://bit.ly/CIS-145-AB5-ZOOM
-    title: Zoom Link
+  # - url: 
+    # title: Zoom Link
   - url: https://myclass.ufv.ca/
     title: UFV Blackboard
   # - url: https://cis145-fall2023.slack.com/
