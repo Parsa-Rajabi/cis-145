@@ -11,7 +11,7 @@ All in-class code examples can be found on [this page](https://github.com/Parsa-
 | **Wk#** 	| **Date** 	        | **Book Chapter** 	|        **Topic**        	| **Lecture Notes** 	|
 |:-------:	|:----------------:	|:----------------:	|:-----------------------:	|:-----------------:	|
 |    1    	|   Jan 3 + Jan 4  	|                  	|        Cancelled        	|         -         	|
-|    2    	|  Jan 10 + Jan 11 	|         1        	| Syllabus + Introduction 	|       Slides      	|
+|    2    	|  Jan 10 + Jan 11 	|         1        	| Syllabus + Introduction 	|       [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiSUJRYlFLRWhNNXR5YWtGT3ErWGtvMnVjOXBpZXJQTzM2VE11Z2FEVkRRYVhSM0hWN0FnZHFQR0ZqZERZOXZ1Y1RQc1BjRVhnTW9RazA1M20rMlIzMWd0ZzdNTUVLa05Vd3Zya0NQRjRPRUlYMmlqUDk1WGNkelRteXhKNHpFUnU4VDFqYmJ0L1k3MGN5OTNBbmw1bmxpSjVOUGs9IiwicyI6InpRT2lJdzI2M3YyUGN5M3RCenhMemc9PSIsImkiOiJDU0VIUGlmSDdsSHdoUEtWIn0=)      	|
 |    3    	|  Jan 17 + Jan 18 	|         2        	|                         	|       Slides      	|
 |    4    	|  Jan 24 + Jan 25	|         3        	|                         	|       Slides      	|
 |    5    	|  Jan 31 + Feb 1 	|         4        	|                         	|       Slides      	|
