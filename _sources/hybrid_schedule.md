@@ -1,4 +1,4 @@
-# Course Schedule for CIS 145 AB5
+# Schedule for CIS 145 AB5
 
 Below is the hybrid schedule for Spring 2024 semester.  The schedule is subject to change and could be updated as the semester progresses.  The schedule is also available via UFV's [course timetable](https://www.ufv.ca/arfiles/includes/202401-timetable-with-changes.htm#:~:text=10313%20AB5%20Parsa%20Rajabi%09%09%09%20%20%09ABD%20204%20%20%20%20%20%20%20W%20%20%201900%092150%20%2003%2DJAN%2D2024%2003%2DJAN%2D2024%20%09%20%2035).
 
