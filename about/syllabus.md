@@ -104,9 +104,9 @@ ISBN: 9780135919941
 ```{include} syllabus_bits/passing_requirement.md
 ``` -->
 
-<!-- ## Late Policy and Missed Assignments/Exams -->
+## Late Policy and Missed Assignments/Exams
 
-<!-- All course elements (including but limited to) assignments, quizzes, weekly activities and exams are required to be submitted or completed by the specified due dates. Inability to adhere to these deadlines will lead to a score of zero, unless exceptional situations are considered on an individual basis, subject to the approval of the instructor and supported by legitimate documentation. -->
+All course elements (including but limited to) assignments, quizzes, weekly activities and exams are required to be submitted or completed by the specified due dates. Inability to adhere to these deadlines will lead to a score of zero, unless exceptional situations are considered on an individual basis, subject to the approval of the instructor and supported by legitimate documentation.
 
 <!-- ```{include} syllabus_bits/policies.md
 ``` -->

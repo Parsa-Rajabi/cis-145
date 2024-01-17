@@ -11,9 +11,9 @@ All course elements (inlcuding but limited to) assignments, quizzes, weekly acti
 
 ## Join Khan Academy
 
-- Visit [Khan Academy's website](https://www.khanacademy.org/join)
-- Enter `TM2V7QVD` as the class code to join CIS 145 
-- You must use your `@student.ufv.ca` email account to sign up
+- Join the CIS 145 [Khan Academy's classroom](https://www.khanacademy.org/join/CVWBVPAR)
+- If you get prompted, enter `CVWBVPAR` as the class code to join CIS 145 Spring 2024
+**- You must use your `@student.ufv.ca` email account to sign up**
 
 ## Schedule 
 
@@ -33,9 +33,8 @@ All course elements (inlcuding but limited to) assignments, quizzes, weekly acti
         - Current Date/Time (this must match your system's date/time)
 
 ```{attention} 
-Screenshot submissions without a note that includes the information above will recieve a 50% mark deduction. Failure to submit a screenshot will result in a mark of zero. 
+Screenshot submissions without a note that includes the information above will recieve a 50% mark deduction. Failure to submit a screenshot to Blackboard will result in a mark of zero. No exceptions.
 ```
-
 ### Example Screenshot
 
 Here is an example of how your screenshot(s) should look like. Make sure to include the all information required in the note and include the computer's date/time in the screenshot.
