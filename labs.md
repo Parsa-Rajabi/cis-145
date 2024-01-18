@@ -13,7 +13,7 @@ All course elements (inlcuding but limited to) assignments, quizzes, weekly acti
 
 - Join the CIS 145 Khan Academy's classroom using [this link](https://www.khanacademy.org/join/CVWBVPAR)
 - If you get prompted, enter `CVWBVPAR` as the class code to join CIS 145 Spring 2024
-**- You must use your `@student.ufv.ca` email account to sign up**
+- **You must use your `@student.ufv.ca` email account to sign up**
 
 ## Schedule 
 
