@@ -94,15 +94,32 @@ ISBN: 9780135919941
 
 ## Course Evaluation
 
-<!-- ```{include} syllabus_bits/grading_practices_detailed.md
+```{include} syllabus_bits/grading_practices_detailed.md
 ```
 
-![Grade Letters](../images/grade_letters.png) -->
+![Grade Letters](../images/grade_letters.png)
 
 <!-- ## Passing Criteria
 
 ```{include} syllabus_bits/passing_requirement.md
 ``` -->
+### Course Attendance Policy
+
+Attendance is a vital component of this course and is directly linked to your participation grade. Students are expected to attend every lecture to fully engage with the course material and contribute to class discussions. Your presence and active participation are crucial for a comprehensive learning experience.
+
+#### Attendance Guidelines:
+
+**Mandatory Attendance:** Regular attendance is expected for all lectures. Participation in each lecture contributes to your overall participation grade.
+
+**Allowance for Absences:** Recognizing the need for flexibility, each student is permitted to miss up to four lectures during the course without impacting their participation grade. These absences do not require justification and are intended to accommodate unforeseen circumstances, such as illness or personal emergencies.
+
+**Exceeding Absence Limit:** If a student misses more than 4 lectures, they will receive a score of 0 for the participation component of their grade. This policy is in place to ensure fairness and to emphasize the importance of consistent attendance.
+
+**Responsibility to Catch Up:** Students who miss a lecture are responsible for obtaining the missed material and notes from their peers or the course resources. It is advisable to stay informed about what was covered during the absence to keep up with the course progression.
+
+**Communication of Absences:** While the four allowed absences do not require formal notification, I encourage students to communicate any extended absences or special circumstances to the instructor as soon as possible.
+
+**Special Considerations:** Exceptions to this policy may be considered on a case-by-case basis for serious and documented reasons, such as medical emergencies or significant personal issues. Students seeking an exception should contact the instructor directly with relevant documentation to discuss their situation.
 
 ## Late Policy and Missed Assignments/Exams
 

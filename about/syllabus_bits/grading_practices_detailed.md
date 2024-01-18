@@ -1,13 +1,12 @@
 The grading scheme for this course is: 
 
-|      **Item**      | **Weight** |
-|:------------------:|:----------:|
-|    Participation   |     10%    |
-|        Labs        |     10%    |
-|  Weekly Activities |     10%    |
-|     Assignments    |     10%    |
-|       Quizzes      |     30%    |
-| Final Exam/Project |     30%    |
+|    **Item**     | **Weight** |
+| :-------------: | :--------: |
+|  Participation  |    10%     |
+|      Labs       |    10%     |
+|    Projects     |    20%     |
+|     Quizzes     |    30%     |
+| Final Component |    30%     |
 
 <!-- |       Item                     | Weight |            Due date(s)             | Frequency |
 |:------------------------------:|:------:|:----------------------------------:|:---------:|
