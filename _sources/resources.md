@@ -2,6 +2,30 @@
 
 On this page you will find some helpful resources that are discused in class.
 
+## CIS Server
+
+[http://cisweb.ufv.ca](http://cisweb.ufv.ca) is a web server for publishing content. Use SFTP to manage the content and HTTP to view the content.
+
+Use the following information to access your personal server:
+
+```{code-block} text
+host: cisweb.ufv.ca
+port: 22
+protocol: sftp
+login: (your student id - example: 30012345)
+password: (your UFV password)
+```
+
+When you are logged in via sftp to the cisweb.ufv.ca server, your home directory is `/home/cis145/studentID`. Any files placed in this directory are accessible to the world using a web browser at `http://cisweb.ufv.ca/~studentID`.
+
+```{warning}
+If you have multiple login errors, the server will ban your address for an interval ranging from a few minutes to a few hours, so if you have a password login error, carefully re-enter your correct username and password before retrying. If the server does not respond at all, your address is probably temporarily banned.
+```
+
+```{tip}
+If you change from `/home/cis145/(studentid)` to its parent directory (..) your sftp client will not be able to read or write from the current directory. This is intentional, as you are not permitted to list all other home directories on the system. The simplest solution is to just change back to your home directory by changing to `(/home/cis145/(studentid))` or, depending on your sftp client, by clicking on home icon.
+```
+
 ## Softwares
 
 ### Primary Code Editor
@@ -41,26 +65,4 @@ The following link includes various alternative softwares that you can use for t
 - WebStorm [Download](https://www.jetbrains.com/webstorm/download)
     - Part of intelij, a very powerful IDE.
 
-## CIS Server
 
-[http://cisweb.ufv.ca](http://cisweb.ufv.ca) is a web server for publishing content. Use SFTP to manage the content and HTTP to view the content.
-
-Use the following information to access your personal server:
-
-```{code-block} text
-host: cisweb.ufv.ca
-port: 22
-protocol: sftp
-login: (your student id)
-password: (your password)
-```
-
-```{warning}
-If you have multiple login errors, the server will ban your address for an interval ranging from a few minutes to a few hours, so if you have a password login error, carefully re-enter your correct username and password before retrying. If the server does not respond at all, your address is probably temporarily banned.
-```
-
-When you are logged in via sftp to the cisweb.ufv.ca server, your home directory is `/home/cis145/(studentid)`. Any files placed in this directory are accessible to the world using a web browser at `http://cisweb.ufv.ca/~(studentid)`.
-
-```{tip}
-If you change from `/home/cis145/(studentid)` to its parent directory (..) your sftp client will not be able to read or write from the current directory. This is intentional, as you are not permitted to list all other home directories on the system. The simplest solution is to just change back to your home directory by changing to `(/home/cis145/(studentid))` or, depending on your sftp client, by clicking on home icon.
-```
