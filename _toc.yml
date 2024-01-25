@@ -25,8 +25,8 @@ parts:
 - caption: Course Content
   chapters:
   - file: lecture_notes
-  # - url: https://github.com/Parsa-Rajabi/cis-145/tree/main/codeExamples
-    # title: In-class code examples
+  - url: https://github.com/Parsa-Rajabi/cis-145/tree/main/in-class-demo
+    title: In-class code examples
   # - file: weekly_activities
   - file: labs
   # - file: quizzes

@@ -4,9 +4,9 @@
 All lecture slides are password protected. Visit Blackboard to get the password.
 ```
 
-<!-- ```{tip}
-All in-class code examples can be found on [this page](https://github.com/Parsa-Rajabi/cis-145/tree/main/exmaples)
-``` -->
+```{tip}
+All in-class code examples can be found on [this page](https://github.com/Parsa-Rajabi/cis-145/tree/main/in-class-demo)
+```
 
 | **Wk#** 	| **Date** 	        | **Book Chapter** 	|        **Topic**        	| **Lecture Notes** 	|
 |:-------:	|:----------------:	|:----------------:	|:-----------------------:	|:-----------------:	|
