@@ -20,7 +20,7 @@ parts:
   - url: https://github.com/Parsa-Rajabi/cis-145/tree/main/in-class-demo
     title: In-class code examples
   - file: labs
-  # - file: projects
+  - file: projects
 
 - caption: Course Feedback
   chapters:

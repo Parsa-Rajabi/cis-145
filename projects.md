@@ -58,7 +58,7 @@ Here's how to capture a screenshot on [Windows](https://www.wikihow.com/Take-a-S
 Here are the steps to submit your screenshot to Blackboard:
 
 1. Go to UFV Blackboard
-2. Navigate to CPSC 1030 Course
+2. Navigate to CIS 145 Course
 3. Visit the course content page
 4. Select `Projects`
 5. Find the respective project
