@@ -14,35 +14,16 @@ parts:
   - file: about/syllabus
   - file: hybrid_schedule
   - file: resources
-  # - file: about/course_schedule
-  # - file: about/accommodations
-  # - file: about/doing_well
-  # - file: about/faq
-# - caption: Course elements
-  # chapters:
-    # - file: assignments_quizzes
-    # - file: project
 - caption: Course Content
   chapters:
   - file: lecture_notes
   - url: https://github.com/Parsa-Rajabi/cis-145/tree/main/in-class-demo
     title: In-class code examples
-  # - file: weekly_activities
   - file: labs
-  # - file: quizzes
-  # - file: assignments
-  # - file: midterm
-  # - file: project
+  # - file: projects
 
 - caption: Course Feedback
   chapters:
   - file: about/feedback
     title: Anonymous Feedback Form
 
-# - caption: Final Exam
-#   chapters:
-#   - file: class/final
-# - caption: Lab Materials
-#   chapters:
-#   - file: class/labs
-#     title: Lab Stuff
