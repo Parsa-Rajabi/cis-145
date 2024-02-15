@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Week 6 Demo</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- This is a comment, notice how it is a different colour compared to other code-->
+        <meta name="author" content="Parsa the coder">
+        <!-- This is an example of external CSS -->
+        <link rel="stylesheet" href="CSS/week6_styles.css">
+
+
+        <!-- Internal CSS Example
+        HTML selector {
+            CSS property: value;
+        }
+        -->
+        <style>
+            p {
+                font-size: 110%;
+                color: rgb(4, 140, 194);
+            }
+            
+            /* example of overriding css values */
+            
+            ol {
+                background-color: yellow;
+            }
+
+            ul {
+                color:blue;
+            }
+
+            dl {
+                background-color: purple;
+                /* color: yellow; */
+            }
+
+        </style>
+
+
+    </head>
+    <body>
+        <!-- This is an example of inline CSS using style attribute -->
+        <h1 style="color: darkviolet;"> Welcome to CIS 145 - Week 6!</h1>
+
+        <h2 style="background-color: pink;">Today is all about practicing CSS Selectors!</h2>
+
+        <p style="font-style: italic;">This is a paragraph</p>
+        <hr>
+
+        <p class="blue-background">This is another paragraph</p>
+        <p>This text has a <sup>superscript</sup> text</p>
+        <p>This text has a <sub>subscript</sub> text</p>
+        <p>Here is an example of a spacial character: &amp; OR &lt; OR &gt;</p>
+
+        <!-- Now let's go over some examples of lists! -->
+        
+        <!-- This is an example of an ordered list -->
+        <p>We need to go through this process everyday:</p>
+        
+        <!-- overriding CSS example -->
+        <ol style="background-color: lightblue;">
+            <li>Wake up</li>
+            <li>Use the washroom</li>
+            <li>Have breakfast</li>
+            <li>Life happens...</li>
+            <li>back to bed</li>
+        </ol>
+
+        <!-- Here is an example of an unordered list -->
+        <p>The things that I need to buy from the store</p>
+        <ul class="blue-background" >
+            <li>Milk</li>
+            <li>Bread</li>
+            <li>Ketchup</li>
+            <li>Pasta</li>
+            <li>Pasta sauce</li>
+        </ul>
+
+        <!-- Description list -->
+        <!-- example of an ID being applied -->
+        <p id="text-center">Quizzes in CIS 145</p>
+        <dl style="background-color: gray;">
+            <dt>Quiz 1</dt>
+                <dd>Next class</dd>
+            <dt>Quiz 2</dt>
+                <dd>Week of March 4?</dd>
+        </dl>
+
+
+        <!-- Here are some examples of anchor tags, also known as <a> -->
+        <!-- an example of an anchor link to a website -->
+        <p><a href="https://www.ufv.ca">Click here to be taken to UFV's website</a></p>
+
+        <!-- To exit a folder in code, we can use the command ../ -->
+        <!-- To enter a folder in code, we can use the folder name with a / afters -->
+        <!-- 
+            CIS 145
+            |
+            -------- images (folder)            <- [4] we can enter this folder
+                ------ UFV-logo.png (file)          <- [5] access this file
+            |       
+            -------- in-class-demo (folder)     <- [3] we need to do "../" to up one directory
+                    ------ week3 (folder)       <- [2] we need to do "../" to up one directory
+                        ----- week3.html (file) <- [1] we are here
+        
+        -->
+        <!-- this is an example of a relative path that we will use for all files -->
+        <p><a href="../../images/ufv-logo.png">Click here to see UFV's logo [Relative Path]</a></p>
+        
+        <!-- this is an example of an absolute path that we should NOT use -->
+        <p><a href="/Users/parsarajabi/Documents/teaching-ufv/cis-145/images/ufv-logo.png">Click here to see UFV's logo [Absolute Path]</a></p>
+
+    </body>
+</html>

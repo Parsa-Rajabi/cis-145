@@ -1,0 +1,35 @@
+/* 
+Comments in CSS are different than HTML
+*/
+ 
+ol {
+    background-color: tomato;
+}
+
+ul {
+    background-color: tomato;
+}
+
+dl {
+    background-color: green;
+}
+
+/* Example of CSS Class Selector */
+
+.blue-background {
+    background-color: blue;
+    color: white;
+}
+
+/* Example of CSS ID Selector */
+
+#text-center {
+    text-align: center;
+}
+
+/* Example of a decesent CSS selector */
+
+ol li {
+    color: orange;
+    font-weight: bold;
+}
