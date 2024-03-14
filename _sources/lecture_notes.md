@@ -20,7 +20,7 @@ All in-class code examples can be found on [this page](https://github.com/Parsa-
 | _7_ | _Feb 21 + Feb 22_ | - | _Reading Break_ | - |
 | 8 | Feb 28 + Feb 29 | 6+7 | Advance CSS, Box Layout | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiMnEvc3RIWWR2MnptSngvdGhKcWdOdzFMakYzVlpUK1A3Mzk3V0pSaHNac20zWi9XVDUrWFIyaXU4UUhuY1hBSVV2SFRFeXJYbUsvejdMUVZBaWdseWp6NXNmVHFZaENVTDZQeUtqWlRFVFpWV3FIMjA2dW9FQ2l4T05ucW5MUkk1T05sV3ZxL3NYS1hRSlNDY2s0ZDIzdEhpRnM9IiwicyI6IjlkZ1RwbU56VFVCc3U2NUJMaHFrUEE9PSIsImkiOiJLSlpqa3NQY1RsSWZuWll5In0=) |
 | 9 | Mar 6 + Mar 7 | 8 | Quiz 2 | - |
-| 11 | Mar 13 + Mar 14 |  | CSS Page Layout & HTML Tables |  |
+| 11 | Mar 13 + Mar 14 |  | CSS Page Layout & HTML Tables | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiMlZPcUtKNXZJWUpUdDh3bGgxQlJLRFFjNmo0dHBlUXI5SWFRTW96cGVUbGNKK3BlUzdjSWpOOTdaajRIVTNnQVpvMEdRc2w4bkpIVjVFOHJ1Y1FHWjNwM0RqeWdrbXBuRFRpS3QreGlVdWVPTnFZbkNGNFI0MGRQYmpKWVJPSFFMeEJadUcxR3o3bkZTMThzaElGaEpJN21WTzg9IiwicyI6Inh6cG9qQVBOejZIMnc2VEdtSFZNT2c9PSIsImkiOiIxeHpyb1JmY1dYR1pvbDZUIn0=) |
 | 11 | Mar 20 + Mar 21 | 9 |  |  |
 | 12 | Mar 27 + Mar 28 |  | Responsive Web Design |  |
 | 13 | Apr 3 + Apr 4 |  | HTML Forms + Intro to JS/jQuery | |
