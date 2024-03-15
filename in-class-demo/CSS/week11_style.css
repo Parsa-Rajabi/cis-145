@@ -3,7 +3,10 @@
     right: 0;
     /* left: 0; */
     bottom: 0;
+    /* top: 0; */
     width: 250px;
+    padding: 10px;
+    background-color: gray;
     border: 3px solid purple;
 }
 
@@ -24,9 +27,15 @@
 #absolutePosition {
     position: absolute;
     top: 45px;
-    width: 100px;
+    width: 130px;
     height: 50px;
     border: 2px dashed tomato;
+}
+
+.handleOverflow {
+    /* overflow: visible; */
+    /* overflow: hidden; */
+    overflow: auto;
 }
 
 #textOverflow {
@@ -34,33 +43,25 @@
     height: 200px;
 }
 
-.handleOverflow {
-    overflow: auto;
-    /* overflow: hidden; */
-    /* overflow: visible; */
-    /* overflow: scroll; */
-}
-
 .dogImage {
     float: right;
+    margin-left: 20px;
 }
 
 .dogImageLeft {
     float: left;
-}
-
-.removeFloatRight {
-    clear: right;
+    margin-right: 15px;
 }
 
 .clearLeft {
     clear: left;
+    /* margin: 20 0 0 0; */
 }
 
 .displayExample {
-    display: inline-block;
+    color: purple;
     /* display: block; */
     /* display: inline; */
     /* display: inline-block; */
-    color:blueviolet;
+    display: none;
 }
