@@ -24,3 +24,4 @@ All in-class code examples can be found on [this page](https://github.com/Parsa-
 | 11 | Mar 20 + Mar 21 |  | No class | check email announcement |
 | 12 | Mar 27 + Mar 28 | 9 | Responsive Web Design + HTML Forms | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiUXVTM21LSUljeGFkbHNVeW4vMnhLMVJTNWVodUZrcTYyU1pGTlRMVmp2WXVjNXhkYkJhVmgxODQ2d2k3cFFobEsxVGJLbFM1YWNPMVYzN05OOXdyVlRXMWxhMUJ0dXBPQ3lkOXByOHNsUFZ4cVlBMjFyQllzTXZhMElkZlVUbzdSY3BRRjZFT0V6alJCSVg3aWhsK3FzOFVSNjA9IiwicyI6Imxwbkt6NS9GTm5kSHFTU2xNdmszRUE9PSIsImkiOiJ5UWI0Z1FJcWp3NEdVUkNpIn0=) |
 | 13 | Apr 3 + Apr 4 |  | Intro to JS + jQuery | |
+| Final Exam | Apr 17 |  | 7-10pm PST - Online | - |
